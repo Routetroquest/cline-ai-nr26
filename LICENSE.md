@@ -1,4 +1,4 @@
-# 
+# Native Cline presets. Featuring contextual-memory and data-pipelines — optimized for maximum performance and efficiency.
 
 
 
